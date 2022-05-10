@@ -29,7 +29,9 @@ Fabrication des équipements qui pèsent le plus :
 
 
 
+
 4 mesures simples pour réduire l’empreinte du numérique :
+
 
 - réduire le nombre d’objets connectés
 - réduire le nombre d’écrans plats et les remplacer par d’autres dispositifs (vidéo projecteur)
